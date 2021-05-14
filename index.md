@@ -33,7 +33,7 @@ None
 
 ### Honors & Awards
 - 2015.12.20  The third prize of Zhejiang University Student Physics Innovation Competition
-- 2016.09.18, 2016 Outstanding Student Reporter of Ningbo University
+- 2016.09.18  Outstanding Student Reporter of Ningbo University
 - 2017.10.20  Advanced Individual in Summer Social Practice of Ningbo University
 - 2017.10.22  The 31st place in the 11th Honda China Energy Conservation Car Competition
 - 2018.07     Second Prize of the National College Student Mechanical Innovation Design Competition
