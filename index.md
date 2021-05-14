@@ -6,7 +6,7 @@
     </td>
     <td width="75%">
       <h1>Hangfeng-Li(Chinese name:李航锋)</h1>
-      <p><b>a master student at the University of Science and Technology of China(USTC).</b></p>
+      <p><b>A master student at the University of Science and Technology of China(USTC).</b></p>
       <p><b>Born on Nov.03,1997 at Zhejiang Province, China.</b></p>
       <p><b>Email:</b></p>
       <p><b>lhfwjy@mail.ustc.edu.cn</b></p>
