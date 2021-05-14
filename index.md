@@ -8,23 +8,14 @@
       <h1>Hangfeng-Li(Chinese name:李航锋)</h1>
       <p><b>a master student at the University of Science and Technology of China(USTC).</b></p>
       <p><b>Born on Nov.03,1997 at Zhejiang Province, China.</b></p>
-      <p><b>Email:lhfwjy@mail.ustc.edu.cn</b></p>
-      <p><b>Address:1.School of Biomedical Engineering (Suzhou), Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230022, China ;2.Suzhou Institute of Biomedical Engineering and Technology, Chinese Academy of Science, Suzhou 215163, China</b></p>
+      <p><b>Email:</b></p>
+      <p><b>lhfwjy@mail.ustc.edu.cn</b></p>
+      <p><b>Address:</b></p>
+      <p><b>1.School of Biomedical Engineering (Suzhou), Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230022, China</b></p>
+      <p><b>2.Suzhou Institute of Biomedical Engineering and Technology, Chinese Academy of Science, Suzhou 215163, China</b></p>
     </td>
   </tr>
 </table>
-
-#### Personal information
-Hangfeng-Li(Chinese name:李航锋), a master student at the University of Science and Technology of China(USTC).
-Born on Nov.03,1997 at Zhejiang Province, China.
-#### Contact
-##### Email: 
-lhfwjy@mail.ustc.edu.cn
-##### Phone: 
-(86)18888641143
-##### Address：
-- 1：School of Biomedical Engineering (Suzhou), Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230022, China 
-- 2：Suzhou Institute of Biomedical Engineering and Technology, Chinese Academy of Science, Suzhou 215163, China
 
 ### The latest news
 None
